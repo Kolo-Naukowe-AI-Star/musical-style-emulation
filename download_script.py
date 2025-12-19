@@ -13,7 +13,6 @@ ydl_opts = {
             "preferredcodec": "m4a",
         }
     ],
-    "max_downloads": 3,
     "outtmpl": "audio/%(playlist_index)s - %(title)s.%(ext)s",
 }
 
